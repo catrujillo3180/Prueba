@@ -6,6 +6,8 @@ public class prueba {
 		int hola1;
 		int hola2;
 		int hola3;
+		
+		
 	}
 
 }
