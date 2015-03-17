@@ -5,7 +5,7 @@ public class prueba {
 		// TODO Auto-generated method stub
 		int hola1;
 		int hola2;
-		
+		int hola3;
 	}
 
 }
